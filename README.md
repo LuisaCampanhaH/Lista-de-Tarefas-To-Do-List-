@@ -20,8 +20,4 @@ CSS3: Para a estilização e layout.
 JavaScript (ES6+): Para a lógica da aplicação, manipulação do DOM e interatividade.
 
 
-## Screenshots
-
-![App Screenshot](img/Captura de tela 2025-06-03 164230.png)
-![App Screenshot](Lista-de-Tarefas-To-Do-List-\img\Captura de tela 2025-06-03 164458.png)
 
