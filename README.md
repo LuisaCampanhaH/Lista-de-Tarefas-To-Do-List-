@@ -22,5 +22,6 @@ JavaScript (ES6+): Para a lógica da aplicação, manipulação do DOM e interat
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Captura de tela 2025-06-03 164230.png)
+![App Screenshot](Captura de tela 2025-06-03 164458.png)
 
